@@ -1,6 +1,6 @@
 # Manley Lawn Website v1.0
 
-# verymanley.github.io/lawn.github.io
+# manleylawn.github.io
 
 ![Status - Stable](https://img.shields.io/badge/Status-Stable-blue.svg)
 ![HTML - v5.0](https://img.shields.io/badge/html-v5.0-blue.svg)
