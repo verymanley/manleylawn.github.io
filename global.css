@@ -177,7 +177,7 @@ h4:hover
 
 .intro_container
 {
-  background-image: url("https://raw.githubusercontent.com/manleylawn/manleylawn.github.io/master/bgimg02.jpg");
+  background-image: url("https://manleylawn.github.io/bgimg02.jpg");
   height: 110%;
   /* the parallax scrolling effect */
   background-attachment: fixed;
@@ -573,7 +573,7 @@ h4:hover
 
 .solutions_b_container
 {
-  background-image: url("https://foxbytellc.github.io/bgimg02.jpg");
+  background-image: url("https://manleylawn.github.io/bgimg04.jpg");
   height: auto;
   /* the parallax scrolling effect */
   background-attachment: fixed;
@@ -635,7 +635,7 @@ h4:hover
 
 .solutions_c_container
 {
-  background-image: url("https://foxbytellc.github.io/bgimg03.jpg");
+  background-image: url("https://manleylawn.github.io/bgimg03.jpg");
   height: auto;
   /* the parallax scrolling effect */
   background-attachment: fixed;
@@ -698,7 +698,7 @@ h4:hover
 
 .solutions_d_container
 {
-  background-image: url("https://foxbytellc.github.io/bgimg02.jpg");
+  background-image: url("https://manleylawn.github.io/bgimg04.jpg");
   height: auto;
   /* the parallax scrolling effect */
   background-attachment: fixed;
